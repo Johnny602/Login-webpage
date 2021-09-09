@@ -1,20 +1,38 @@
-<html>
-    <head>
-        <title>What up!!!</title>
-    </head>
-    <body>
-        <div Header
-
-            </div>
-
-            <div main
-
-            </div>
-            <div 
-                footer
-            </div>
-
+<!DOCTYPE html>
+<html lang="en">
+	<header>
+   
+     Loren ipsum
+	 
+	 
+	</header>
+		<main>
+      
+	  
+          
+		  Loren Ipsum
+			
+		</main>
+		
+		
+         <Footer>
+		 
+		 
+            Loren Ipsum
+			
+			
+         </footer>
+		 
+     <ul>
+	 
+    <li>Home Page</li>
+    <li>Log In</li>
+    <li>Contact</li>
+   
+    
+	</ul>
+           
         
-        </div>
-    </body>
+      
+  
 </html>
